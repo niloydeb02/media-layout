@@ -1,0 +1,19 @@
+.header,.hero,.body,.bar,footer{
+	background: pink;
+	font-size: 35px;
+}
+.box1{
+	height: 65px;
+	margin: 10px 0;
+	background:#03a9f475;
+	font-size: 35px;
+	border: 5px solid green;
+}
+.box2{
+      margin: 10px 0;
+      height: 65px;
+      background: red;
+      font-size: 35px;
+      border: 5px solid green;
+
+}
